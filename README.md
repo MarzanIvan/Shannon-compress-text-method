@@ -1,0 +1,1 @@
+# Shannon-compress-text-method
